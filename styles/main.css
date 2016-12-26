@@ -3,7 +3,7 @@ body {
 	font-family: arial;
 	font-size: 20;
 	color: #40494D;
-
+	margin: 0;
 
 }
 
@@ -26,4 +26,49 @@ li {
 
 .KFC {
 	color:purple;
+}
+
+
+body {
+	margin: 0;
+}
+header {
+	background: #A1D490;
+	color: white;
+	padding:33px 15px ;
+}
+
+header, h1 {
+	margin:0;
+	padding:0 0 13px 15px;
+	float: middle;
+	font-size: 60;
+	display: inline;
+}
+
+
+nav ul {
+	margin:0;
+	display: inline;
+}
+
+nav ul li {
+	color:white;
+	list-style-type: none;
+	display: inline-block;
+	background: black;
+	padding:5px 10px;
+	float: left;
+	font-size: 25;
+}
+
+nav ul li a {
+	color:white;
+}
+
+
+footer {
+	font-variant: timesnewroman;
+	color: White;
+	background: #90C3D4;
 }
