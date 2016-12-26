@@ -9,6 +9,7 @@ body {
 
 h1{
 	color: black;
+	font-size: 4rem;
 }
 
 a {
@@ -27,9 +28,18 @@ div	{
 header {
 	background: #A1D490;
 	font-color: white;
-	padding:33px 15px ;
+	padding:33px 16px ;
+	max-height: 15rem;
 }
 
+header :hover {
+	color: white;
+}
+
+header h1{
+	font-size: 8rem;
+	text-align: center;
+}
 
 nav ul {
 	margin: 0;
@@ -41,9 +51,8 @@ nav ul li {
 	list-style-type: none;
 	display: inline-block;
 	background: black;
-	padding: 5px 10px;
+	padding: 3px 3px;
 	float: left;
-	font-size: 25;
 }
 
 nav ul li a {
