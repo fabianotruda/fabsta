@@ -25,6 +25,16 @@ div	{
 	margin: 5px auto;
 }
 
+div .post {
+	width: 95%;
+	background-color: grey;
+}
+
+.post img {
+	width: 95%;
+	left: 50%;
+}
+
 header {
 	background: #A1D490;
 	font-color: white;
