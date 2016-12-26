@@ -1,0 +1,29 @@
+body {
+	background: #EDF5EB;
+	font-family: arial;
+	font-size: 20;
+	color: #40494D;
+
+
+}
+
+head {
+	font-family: arial;
+}
+
+
+h1{
+	color: black;
+}
+
+a {
+	color:green;
+}
+
+li {
+	color:#555;
+}
+
+.KFC {
+	color:purple;
+}
