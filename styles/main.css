@@ -24,11 +24,6 @@ li {
 	color:#555;
 }
 
-.KFC {
-	color:purple;
-}
-
-
 body {
 	margin: 0;
 }
@@ -38,7 +33,7 @@ header {
 	padding:33px 15px ;
 }
 
-header, h1 {
+header h1 {
 	margin:0;
 	padding:0 0 13px 15px;
 	float: middle;
