@@ -29,6 +29,9 @@ div	{
 	margin: 5px auto;
 }
 
+div .bdayfont {
+	font-family: impact;
+}
 
 
 div .post {
@@ -37,6 +40,7 @@ div .post {
 	color: black;
 	text-align: center;
 	padding: 3px;
+	margin-bottom: 5%;
 }
 
 .post img {
@@ -44,6 +48,8 @@ div .post {
 	left: 50%;
 	max-width: 600px;
 }
+
+
 
 header {
 	background: #26A3F0;
